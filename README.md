@@ -5,3 +5,5 @@ Projekt AnalizaBesed vsebuje skripto analiza.py, ki izvaja preprosto analizo bes
 ## Uporaba
 
 Za uporabo projekta naložite datoteke analiza.py in besede.txt. Nato zaženite skripto analiza.py in si oglejte rezultate analize.
+
+closes #1 dodali smo poglavje z avtorji
